@@ -1,4 +1,5 @@
 # apnacollege
 this is my first git repository.
 <br>
-author hitesh
+author :- hitesh
+git status
